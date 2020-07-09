@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+📫 How to reach me: fauzanr17@gmail.com
+👜 Linkedin: https://www.linkedin.com/in/fauzanr/
 <!--
 **fauzanr/fauzanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
